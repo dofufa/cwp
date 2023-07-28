@@ -1,0 +1,6 @@
+# Rule
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://print.chinesewritingpaper.com/txt/sitemap.txt
