@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Home Page
-description: Print better paper, write better CHinese.
+title: Print free paper, write better Chinese.
+description: Print free paper, write better Chinese.
 category: index
+keywords: chinese, writing, paper, free, printable, pdf, png
 ---
-Hi.
+
