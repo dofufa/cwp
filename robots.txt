@@ -4,3 +4,6 @@ Allow: /
 
 # Sitemap
 Sitemap: https://print.chinesewritingpaper.com/txt/sitemap.txt
+Sitemap: https://print.chinesewritingpaper.com/txt/thumb.txt
+Sitemap: https://print.chinesewritingpaper.com/txt/png.txt
+Sitemap: https://print.chinesewritingpaper.com/txt/pdf.txt
