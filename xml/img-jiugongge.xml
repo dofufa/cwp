@@ -1,0 +1,31 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+	<url>
+		<loc>
+			https://print.chinesewritingpaper.com/paper/jiugongge.html
+		</loc>
+
+		<image:image>
+			<image:loc>
+				https://print.chinesewritingpaper.com/pdf/jiugongge-letter-chinese-writing-paper-1000.pdf
+			</image:loc>
+			<image:title>
+				chinese writing paper, pdf, jiugongge, 九宫格, 1 in. (2.54 cm)
+			</image:title>
+			<image:license>
+				https://creativecommons.org/licenses/by/4.0/
+			</image:license>
+		</image:image>
+
+		<image:image>
+			<image:loc>
+				https://print.chinesewritingpaper.com/pdf/jiugongge-letter-chinese-writing-paper-1000.pdf
+			</image:loc>
+			<image:title>
+				chinese writing paper, pdf, jiugongge, 九宫格, 1 in. (2.54 cm)
+			</image:title>
+			<image:license>
+				https://creativecommons.org/licenses/by/4.0/
+			</image:license>
+		</image:image>
+	</url>
+</urlset>
