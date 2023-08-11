@@ -1,30 +1,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
 		<loc>
-			https://print.chinesewritingpaper.com/paper/genkoyoshi.html
+			https://print.chinesewritingpaper.com/genkoyoshi.html
 		</loc>
+
 		<image:image>
 			<image:loc>
 				https://print.chinesewritingpaper.com/thumb/t250-genkoyoshi-a4-japanese-writing-paper-400tiles.png
 			</image:loc>
-			<image:title>
-				free genkoyoshi paper, 原稿用紙, japanese writing paper, 400 tiles
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
 		</image:image>
 
 		<image:image>
 			<image:loc>
 				https://print.chinesewritingpaper.com/png/genkoyoshi-a4-japanese-writing-paper-400tiles.png
 			</image:loc>
-			<image:title>
-				japanese writing paper, png, 原稿用紙, 400 tiles
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
 		</image:image>
+
+		<image:image>
+			<image:loc>
+				https://print.chinesewritingpaper.com/thumb/t250-genkoyoshi-a4-japanese-writing-paper-400tiles.png
+			</image:loc>
+		</image:image>		
 	</url>
 </urlset>
