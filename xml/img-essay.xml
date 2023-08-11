@@ -1,31 +1,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 	<loc>
-		https://print.chinesewritingpaper.com/paper/essay.html
+		https://print.chinesewritingpaper.com/essay.html
 	</loc>
 
-	<!-- images for essay paper -->
+	<!-- image set for 20x20 Chinese Essay Paper -->
+
 	<image:image>
 		<image:loc>
 			https://print.chinesewritingpaper.com/pdf/paper-essay-20x20.pdf
 		</image:loc>
-		<image:caption>
-			essay manuscript paper is designed for Chinese compositions. this is in PDF format.
-		</image:caption>
-		<image:title>printable chinese writing practice template pdf</image:title>
-		<image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+		<image:title>20x20 Chinese Essay Paper PDF</image:title>
 	</image:image>
 
 	<image:image>
 		<image:loc>
 			https://print.chinesewritingpaper.com/png/paper-essay-20x20.png
 		</image:loc>
-		<image:caption>
-			essay manuscript paper is designed for Chinese compositions. this is in PNG format.
-		</image:caption>
-		<image:title>printable chinese writing practice template png</image:title>
-		<image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+		<image:title>20x20 Chinese Essay Paper PNG</image:title>
 	</image:image>
 
+	<image:image>
+		<image:loc>
+			https://print.chinesewritingpaper.com/thumb/t250-paper-essay-20x20.png
+		</image:loc>
+		<image:title>20x20 Chinese Essay Paper Thumbnail</image:title>
+	</image:image>	
 </url>
 </urlset>
