@@ -1,0 +1,26 @@
+<p>
+  <h2 class="kaiti taller">{{ include.size }} {{ include.name }}</h2>
+  {{ include.dims }}<br/>
+  {{ include.grid }} = {{ include.count }} practice tiles
+</p>
+
+<p>
+  <img class="thumb" align="absmiddle"
+    src="/thumb/t250-{{ include.stub }}.png"
+    title="{{ include.name }}: {{ include.stub }}, thumbnail, {{ include.dims }}"
+    alt="{{ include.stub }}, thumbnail, {{ include.dims }}"/><br/>
+</p>
+
+<p>
+  <ul class="downloadfilelist">
+
+    <li><a title="{{ include.stub }}, pdf, {{ include.dims }}"
+        alt="{{ include.stub }}, pdf, {{ include.dims }}"
+        href="/pdf/{{ include.stub }}.pdf">Download {{ include.name }} PDF</a></li>
+
+    <li><a title="{{ include.stub }}, png, {{ include.dims }}"
+        alt="{{ include.stub }}, png, {{ include.dims }}"
+        href="/png/{{ include.stub }}.png">Download {{ include.name }} PNG</a></li>
+  </ul>
+</p>
+
