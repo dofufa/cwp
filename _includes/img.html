@@ -16,11 +16,13 @@
 
     <li><a title="{{ include.stub }}, pdf, {{ include.dims }}"
         alt="{{ include.stub }}, pdf, {{ include.dims }}"
-        href="/pdf/{{ include.stub }}.pdf">Download {{ include.name }} PDF</a></li>
+        rel="canonical"          
+        href="/pdf/{{ include.stub }}.pdf">Download {{ include.size }} {{ include.name }} PDF</a></li>
 
     <li><a title="{{ include.stub }}, png, {{ include.dims }}"
         alt="{{ include.stub }}, png, {{ include.dims }}"
-        href="/png/{{ include.stub }}.png">Download {{ include.name }} PNG</a></li>
+        rel="canonical"
+        href="/png/{{ include.stub }}.png">Download {{ include.size }} {{ include.name }} PNG</a></li>
   </ul>
 </p>
 
