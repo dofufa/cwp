@@ -1,19 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-	<url>
-		<loc>
-			https://print.chinesewritingpaper.com/paper/mizige.html
-		</loc>
+<url>
+  <loc>
+    https://print.chinesewritingpaper.com/mizige.html
+  </loc>
+  
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/pdf/mizige-letter-chinese-writing-paper-1000.pdf
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/pdf/mizige-letter-chinese-writing-paper-1000.pdf
-			</image:loc>
-			<image:title>
-				chinese writing paper, pdf, mizige, 米字格, 1 in. (2.54 cm)
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
-	</url>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/png/mizige-letter-chinese-writing-paper-1000.png
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/thumb/t250-mizige-letter-chinese-writing-paper-1000.png
+    </image:loc>
+  </image:image>
+  
+</url>
 </urlset>

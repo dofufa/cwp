@@ -1,79 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-	<url>
-		<loc>
-			https://print.chinesewritingpaper.com/paper/huigongge.html
-		</loc>
+<url>
+  <loc>
+    https://print.chinesewritingpaper.com/huigongge.html
+  </loc>
+  
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/pdf/paper-huigongge-1000-cakes.pdf
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/thumb/t250-paper-huigongge-1000-cakes.png
-			</image:loc>
-			<image:title>
-				paper-huigongge-1000-cakes, thumbnail, 1 in. [2.54 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/png/paper-huigongge-1000-cakes.png
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/thumb/t250-paper-huigongge-1000-donuts.png
-			</image:loc>
-			<image:title>
-				paper-huigongge-1000-donuts, thumbnail, 1 in. [2.54 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/pdf/paper-huigongge-1000-donuts.pdf
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/thumb/t250-paper-huigongge-2000-donuts.png
-			</image:loc>
-			<image:title>
-				paper-huigongge-2000-donuts, thumbnail, 2 in. [5.08 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/png/paper-huigongge-1000-donuts.png
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/png/paper-huigongge-1000-donuts.png
-			</image:loc>
-			<image:title>
-				paper-huigongge-1000-donuts, png, 1 in. [2.54 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/pdf/paper-huigongge-2000-donuts.pdf
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/png/paper-huigongge-1000-donuts.png
-			</image:loc>
-			<image:title>
-				paper-huigongge-1000-donuts, png, 1 in. [2.54 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/png/paper-huigongge-2000-donuts.png
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/png/paper-huigongge-1000-donuts.png
-			</image:loc>
-			<image:title>
-				paper-huigongge-1000-donuts, png, 1 in. [2.54 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
-	</url>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/thumb/t250-paper-huigongge-1000-cakes.png
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/thumb/t250-paper-huigongge-1000-donuts.png
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/thumb/t250-paper-huigongge-2000-donuts.png
+    </image:loc>
+  </image:image>
+  
+</url>
 </urlset>

@@ -1,78 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-	<url>
-		<loc>
-			https://print.chinesewritingpaper.com/paper/tianzige.html
-		</loc>
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/thumb/t250-paper-tianzige-0750.png
-			</image:loc>
-			<image:title>
-				paper-tianzige-0750, thumbnail, 0.75 in. [1.91 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
+<url>
+  <loc>
+    https://print.chinesewritingpaper.com/tianzige.html
+  </loc>
+  
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/pdf/paper-tianzige-0750.pdf
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/png/paper-tianzige-0750.png
-			</image:loc>
-			<image:title>
-				paper-tianzige-0750, png, 0.75 in. [1.91 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/png/paper-tianzige-0750.png
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/png/paper-tianzige-0750.png
-			</image:loc>
-			<image:title>
-				paper-tianzige-0750, png, 0.75 in. [1.91 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/pdf/tianzige-letter-chinese-writing-paper-0750.pdf
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/png/paper-tianzige-0750.png
-			</image:loc>
-			<image:title>
-				paper-tianzige-0750, png, 0.75 in. [1.91 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/png/tianzige-letter-chinese-writing-paper-0750.png
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/png/paper-tianzige-0750.png
-			</image:loc>
-			<image:title>
-				paper-tianzige-0750, png, 0.75 in. [1.91 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/pdf/tianzige-pinyin-solid-letter-chinese-writing-paper-0750.pdf
+    </image:loc>
+  </image:image>
+  
 
-		<image:image>
-			<image:loc>
-				https://print.chinesewritingpaper.com/png/paper-tianzige-0750.png
-			</image:loc>
-			<image:title>
-				paper-tianzige-0750, png, 0.75 in. [1.91 cm]
-			</image:title>
-			<image:license>
-				https://creativecommons.org/licenses/by/4.0/
-			</image:license>
-		</image:image>
-	</url>
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/png/tianzige-pinyin-solid-letter-chinese-writing-paper-0750.png
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/pdf/tianzige-pinyin-dashed-letter-chinese-writing-paper-0750.pdf
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/png/tianzige-pinyin-dashed-letter-chinese-writing-paper-0750.png
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/pdf/tianzige-pinyin-wide-letter-chinese-writing-paper-0750.pdf
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/png/tianzige-pinyin-wide-letter-chinese-writing-paper-0750.png
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/thumb/t250-paper-tianzige-0750.png
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/thumb/t250-tianzige-letter-chinese-writing-paper-0750.png
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/thumb/t250-tianzige-pinyin-solid-letter-chinese-writing-paper-0750.png
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/thumb/t250-tianzige-pinyin-dashed-letter-chinese-writing-paper-0750.png
+    </image:loc>
+  </image:image>
+  
+
+    <image:image>
+    <image:loc>
+      https://print.chinesewritingpaper.com/thumb/t250-tianzige-pinyin-wide-letter-chinese-writing-paper-0750.png
+    </image:loc>
+  </image:image>
+  
+</url>
 </urlset>
