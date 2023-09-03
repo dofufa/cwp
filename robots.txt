@@ -2,8 +2,25 @@
 User-agent: *
 Allow: /
 
-# Sitemap
+# Sitemaps
+
+Sitemap: https://print.chinesewritingpaper.com/xml/img-214kangxiradicalschart.xml
+
+Sitemap: https://print.chinesewritingpaper.com/xml/img-essay.xml
+
+Sitemap: https://print.chinesewritingpaper.com/xml/img-fanggezhi.xml
+
+Sitemap: https://print.chinesewritingpaper.com/xml/img-genkoyoshi.xml
+
+Sitemap: https://print.chinesewritingpaper.com/xml/img-huigongge.xml
+
+Sitemap: https://print.chinesewritingpaper.com/xml/img-jiugongge.xml
+
+Sitemap: https://print.chinesewritingpaper.com/xml/img-kangxi.xml
+
+Sitemap: https://print.chinesewritingpaper.com/xml/img-mizige.xml
+
+Sitemap: https://print.chinesewritingpaper.com/xml/img-tianzige.xml
+
 Sitemap: https://print.chinesewritingpaper.com/txt/sitemap.txt
-Sitemap: https://print.chinesewritingpaper.com/txt/thumb.txt
-Sitemap: https://print.chinesewritingpaper.com/txt/png.txt
-Sitemap: https://print.chinesewritingpaper.com/txt/pdf.txt
+
