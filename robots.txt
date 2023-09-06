@@ -11,6 +11,9 @@ Sitemap: https://print.chinesewritingpaper.com/xml/img-huigongge.xml
 Sitemap: https://print.chinesewritingpaper.com/xml/img-jiugongge.xml
 Sitemap: https://print.chinesewritingpaper.com/xml/img-mizige.xml
 Sitemap: https://print.chinesewritingpaper.com/xml/img-tianzige.xml
+Sitemap: https://print.chinesewritingpaper.com/xml/pdf.xml
+Sitemap: https://print.chinesewritingpaper.com/xml/png.xml
+Sitemap: https://print.chinesewritingpaper.com/xml/thumb.xml
 
 # TXT Sitemaps
 Sitemap: https://print.chinesewritingpaper.com/txt/sitemap.txt
