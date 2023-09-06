@@ -24,4 +24,13 @@
   <sitemap>
     <loc>https://print.chinesewritingpaper.com/xml/img-genkoyoshi.xml</loc>
   </sitemap>
+  <sitemap>
+    <loc>https://print.chinesewritingpaper.com/xml/pdf.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://print.chinesewritingpaper.com/xml/png.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://print.chinesewritingpaper.com/xml/thumb.xml</loc>
+  </sitemap>  
 </sitemapindex>
