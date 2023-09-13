@@ -20,10 +20,23 @@
         rel="canonical"          
         href="/pdf/{{ include.stub }}.pdf">Download {{ include.size }} {{ include.name }} PDF</a></li>
 
+    <div class="g-savetodrive"
+     data-src="//print.chinesewritingpaper.com/pdf/{{ include.stub }}.pdf"
+     data-filename="{{ include.stub }}.pdf"
+     data-sitename="ChineseWritingPaper.com">
+    </div>
+    
     <li><a title="{{ include.stub }}, png, {{ include.dims }}"
         alt="{{ include.stub }}, png, {{ include.dims }}"
         rel="canonical"
         href="/png/{{ include.stub }}.png">Download {{ include.size }} {{ include.name }} PNG</a></li>
+ 
+    <div class="g-savetodrive"
+     data-src="//print.chinesewritingpaper.com/png/{{ include.stub }}.png"
+     data-filename="{{ include.stub }}.png"
+     data-sitename="ChineseWritingPaper.com">
+    </div>
+  
   </ul>
 </p>
 
