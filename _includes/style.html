@@ -201,8 +201,21 @@ h1 {
 td.sharebox {
   height: 75px;
 }
+
+.printprompt {
+	font-size: 16pt;
+}
+
+.printprompt b {
+	font-weight: 900;
+}  
   
 @media print {
+  
+  body {
+    background-color: white;
+  }
+  
   h1,h2,h3,p,a,b,div {
     color: black;
   }
